@@ -1,5 +1,6 @@
 ## Selection Sort Project
 
+1.
 | Adım |       Durum       |
 | :--: | :---------------: |
 |  1.  | [22,27,16,2,18,6] |
@@ -10,14 +11,15 @@
 
 <br>
 
-- Big o notation gösterimi `n^2` dir
+2. Big o notation gösterimi `n^2` dir
 
 <br>
 
-- 18 sayısı average case durumuna girer. Aradığımız sayının ortada olması durumudur.
+3. 18 sayısı average case durumuna girer. Aradığımız sayının ortada olması durumudur.
 
 <br>
 
+4.
 | Adım |        Durum         |
 | :--: | :------------------: |
 |  1.  | [7,3,5,8,2,9,4,15,6] |
